@@ -13,7 +13,7 @@
 - 📊 Passionate about **Data Science, AI, ML and Full Stack Development using Python**
 - 🚀 Currently building a **Multi-Agent AI Data Analyst** platform
 - 📈 Created projects in **Power BI**, **Python**, **Flask**, and **Machine Learning**
-- 📨 Reach me: **daksheshs2004@gmail.com**
+- 📨 Reach me: **daksheshs005@gmail.com**
 
 ---
 

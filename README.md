@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  Welcome to my GitHub! I'm a passionate Engineering Student at JSS Academy of Technical Education, diving deep into the worlds of Data Science, Full Stack Web Development, and AI. I enjoy solving problems, building analytical dashboards, and creating web apps that make an impact.
+  Welcome to my GitHub! I'm a passionate Engineering Student at JSS Academy of Technical Education, diving deep into the worlds of Data Science, Data visulaization ,Full Stack Web Development, and AI. I enjoy solving problems, building analytical dashboards, and creating web apps that make an impact.
 </p>
 
 ---

@@ -12,7 +12,7 @@
 - 🎓 Pursuing B.E. in Information Science | CGPA: 7.8
 - 📊 Passionate about **Data Science, AI, ML and Full Stack Development using Python**
 - 🚀 Currently building a **Multi-Agent AI Data Analyst** platform
-- 📈 Created projects in **Power BI**, **Python**, **Flask**, and **Machine Learning**
+- 📈 Created projects in **Power BI**, **Python**, and **Machine Learning**
 - 📨 Reach me: **daksheshs005@gmail.com**
 
 ---
